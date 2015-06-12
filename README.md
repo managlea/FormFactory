@@ -1,1 +1,2 @@
 # FormFactory
+[![Build Status](https://scrutinizer-ci.com/g/managlea/FormFactory/badges/build.png?b=master)](https://scrutinizer-ci.com/g/managlea/FormFactory/build-status/master) [![Code Coverage](https://scrutinizer-ci.com/g/managlea/FormFactory/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/managlea/FormFactory/?branch=master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/managlea/FormFactory/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/managlea/FormFactory/?branch=master)
